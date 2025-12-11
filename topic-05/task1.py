@@ -18,6 +18,6 @@ else:
     elif (user == "stone" and comp == "scissor") or \
          (user == "scissor" and comp == "paper") or \
          (user == "paper" and comp == "stone"):
-        print("Ви перемогли! 🎉")
+        print("Ви перемогли!")
     else:
-        print("Ви програли! 😢")
+        print("Ви програли!")
